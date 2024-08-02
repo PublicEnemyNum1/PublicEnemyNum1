@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Victoria 
 - 👀 I’m interested in
     Movies, music, tv, philosophy, reading
-    Graph Modeling
-    Virtual 3D Models
-    HTML/Webdev/CSS
-    SQL/SAS/PANDAS
+- seeking to learn
+- -Graph Modeling
+    - Virtual 3D Models
+    - HTML/Webdev/CSS
+    - SQL/SAS/PANDAS
 - 🌱 I’m currently learning
     Data Structures
     Assembly Languages and Interpreters
