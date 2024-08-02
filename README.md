@@ -2,7 +2,7 @@
 - 👀 I’m interested in
     Movies, music, tv, philosophy, reading
 - seeking to learn
-- - Graph Modeling
+    - Graph Modeling
     - Virtual 3D Models
     - HTML/Webdev/CSS
     - SQL/SAS/PANDAS
