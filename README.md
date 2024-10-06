@@ -2,20 +2,19 @@
 - 👀 I’m interested in
     Movies, music, tv, philosophy, reading
 - seeking to learn
-    - Graph Modeling
-    - Virtual 3D Models
-    - HTML/Webdev/CSS
+    - Full Stack Web Development
     - SQL/SAS/PANDAS
+    - Swift
 - 🌱 I’m currently learning
     Data Structures
     Assembly Languages and Interpreters
-    Python, Javascript
+    Javascript
 - 📫 How to reach me
     victoriasun1230@gmail.com
 - 😄 Pronouns:
     She/Her
 - Current Languages:
-    C, C++, Java
+    C, C++, Java, HTML, CSS
 
 
 <!---
