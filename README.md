@@ -6,9 +6,9 @@
     - SQL/SAS/PANDAS
     - Swift
 - 🌱 I’m currently learning
-    Data Structures
-    Assembly Languages and Interpreters
-    Javascript
+    - Data Structures
+    - Assembly Languages and Interpreters
+    - Javascript
 - 📫 How to reach me
     victoriasun1230@gmail.com
 - 😄 Pronouns:
